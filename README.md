@@ -1,7 +1,6 @@
  # Beast Fitness
 
 Android application built using Java.
-Mini Project for 6th Sem.
 
 ## Description
 
@@ -42,12 +41,4 @@ implementation 'androidx.appcompat:appcompat:1.4.1'
     implementation 'com.google.firebase:firebase-analytics'
     implementation 'com.google.firebase:firebase-messaging'
 ```
-## Authors
-
-Srujan G V aka [@ZephNotFound](https://github.com/ZephNotFound)
-
-## License
-
-This project is Open Source and anyone can use it.
-Be sure to star this repo and if any issues/bugs/errors do open issues.⭐⭐⭐
 
